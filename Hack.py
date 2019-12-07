@@ -16,7 +16,7 @@ def ban () :
     import os 
     os.system("cd /$HOME && git clone https://github.com/MrSqar-Ye/BadMod")
     import os 
-    os.system("cd /$HOME && git clone https://github.com/seifsherifssss/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
+    os.system("cd /$HOME && git clone https://github.com/MasterXCode/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
     import os 
     os.system("clear && toilet -f big 'DONE HACKER YOU CAN HACK ANY PHONE NOW ' | lolcat ")
     import os 
